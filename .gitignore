@@ -1,0 +1,4 @@
+module/
+*.txt
+new.html
+!mytext.txt
